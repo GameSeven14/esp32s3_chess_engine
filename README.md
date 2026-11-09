@@ -1,4 +1,4 @@
-# ESP32-S3 Cyber Chess
+# ESP32-S3 Chess Engine
 
 A standalone, touchscreen chess computer for the **ESP32-S3**, built on the [mcu-max](https://github.com/gissio/mcu-max) engine. Play against the bot, play a friend on the same screen, or use it as a chess clock, all without a PC or a network connection.
 
